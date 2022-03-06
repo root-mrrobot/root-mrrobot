@@ -100,9 +100,9 @@
 </br>
 
 <!-- Socials -->
-<h3 align="left">🤝🏻 Connect with Me: </h3>
+<h3 align="center">🤝🏻 Connect with Me: </h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aaqib-javed-khan-91516020b" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="aaqib-javed-khan-91516020b" height="30" width="40" /></a>
@@ -129,7 +129,7 @@
 <p>
         <img src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default" align="right" />
 </p>
-        <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default) -->
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default) -->
 
 <!-- From Github -->
 <!-- 
