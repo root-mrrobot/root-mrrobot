@@ -20,9 +20,10 @@
 </br>
 
 <!-- Tech Stack -->
-### 🛠 &nbsp;Languages and Tools:
+<h3 align="center">
+🛠 Languages and Tools: </h3>
 
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,7 +46,7 @@
 
 </br>
 
-<p>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android Studio" alt="Android" width="40" height="40"/>&nbsp;  
@@ -96,8 +97,19 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-mrrobot&theme=algolia&hide_border=false" />
 </p>
 
+</br>
+
+<!-- Quote Generator -->
+<div align="left">
+        <p>
+                <img src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default" align="right" />
+                <!-- float:right margin:50px top:-40px -->
+        </p>
+        <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default) -->
+ </div>
+
 <!-- Socials -->
-### 🤝🏻 &nbsp;Connect with Me:
+<h3 align="left">🤝🏻 Connect with Me: </h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aaqib-javed-khan-91516020b" target="blank"><img align="center"
@@ -117,6 +129,7 @@
       alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 
+<!-- Socials Simple Style-->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqib-javed-khan-91516020b) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_aaqibkhan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@username) -->
