@@ -126,8 +126,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@username) -->
 
 <!-- Quote Generator -->
-<p>
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default" align="right" />
+<p align="center">
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default" />
 </p>
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=prussian&animation=grow_out_in&layout=default&font=default) -->
 
