@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hey there! I'm Aaqib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> -->
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aaqib+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Origami+Enthusiast"/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Aaqib!+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Intrigued+by+Security;Origami+Enthusiast"/>
     </div>
 
 <!-- Animated Image -->
@@ -30,6 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,9 +48,10 @@
 </br>
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android Studio" alt="Android" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;  
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp; -->
 </p>
 
@@ -103,12 +105,18 @@
 <h3 align="center">🤝🏻 Connect with Me: </h3>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aaqib-javed-khan-91516020b" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="aaqib-javed-khan-91516020b" height="30" width="40" /></a>
+      title="LinkedIn" alt="aaqib-javed-khan-91516020b" height="30" width="40" /></a>
+  <!-- Twitter -->
   <a href="https://twitter.com/_aaqibkhan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="_aaqibkhan" height="30" width="40" /></a>
+      title="Twitter" alt="_aaqibkhan" height="30" width="40" /></a>
+  <!-- CodePen -->
+  <a href="https://codepen.io/root_mrrobot" target="blank"><img align="center"
+      src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"
+      title="CodePen" alt="root_mrrobot" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
