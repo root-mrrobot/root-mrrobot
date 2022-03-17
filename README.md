@@ -14,15 +14,16 @@
 
 📚 &nbsp;I am studying a BSc IT in Computer Science.\
 🤝 &nbsp;Willing to join and learn on projects in attempting to experiment with new technologies and build new exciting apps and software solutions.\
-🌱 &nbsp;Currently learning Machine Learning, Computer Graphics & Visualization and the growing field of Software Development.\
+🌱 &nbsp;Currently learning Computer Graphics & Visualization, Machine Learning and the growing field of Software Development.\
 ⚡ &nbsp;Fun fact: I am an Origami enthusiast, feel free to reach out and perhaps we could have an interesting chat :)
-
+<!-- 📌 &nbsp;Interested in Game Development, Web Applications, Cyber Security and Cross Platform Frameworks.\ -->
 </br>
 
 <!-- Tech Stack -->
 <h3 align="center">
 🛠 Languages and Tools: </h3>
 
+<!-- Languages -->
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
@@ -33,6 +34,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -47,7 +49,17 @@
 
 </br>
 
+<!-- Frameworks -->
+<!-- <p align="centre">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</p>
+
+</br>
+-->
+
+<!-- IDEs -->
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
@@ -107,7 +119,7 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aaqib-javed-khan-91516020b" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
       title="LinkedIn" alt="aaqib-javed-khan-91516020b" height="30" width="40" /></a>
   <!-- Twitter -->
   <a href="https://twitter.com/_aaqibkhan" target="blank"><img align="center"
