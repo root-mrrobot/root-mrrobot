@@ -16,7 +16,7 @@
 💻 &nbsp;Software Developer.\
 🤝 &nbsp;Willing to join and learn on projects in attempting to experiment with new technologies and build new exciting apps and software solutions.\
 🌱 &nbsp;Currently learning Computer Graphics & Visualization, Machine Learning and the growing field of Software Development.\
-⚡ &nbsp;Fun fact: I am an Origami enthusiast, feel free to reach out and perhaps we could have an interesting chat :)
+⚡ &nbsp;Feel free to reach out and perhaps we could have an interesting chat :)
 <!-- 📌 &nbsp;Interested in Game Development, Web Applications, Cyber Security and Cross Platform Frameworks.\ -->
 </br>
 
