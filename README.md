@@ -5,7 +5,7 @@
     </div>
 
 <!-- Animated Image -->
-<div align="left">
+<div align="center">
 <p><img src="https://github.com/root-mrrobot/root-mrrobot/blob/main/programming%20animated.gif" align="right" width="400" height="250" /></p>
   </div>
 
@@ -75,11 +75,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" title="Codecov" alt="Codecov" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   
 <!--   
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp; 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
