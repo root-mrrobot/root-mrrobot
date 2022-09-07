@@ -16,7 +16,9 @@
 💻 &nbsp;Software Developer.\
 🤝 &nbsp;Willing to collaborate on projects with different technologies to build exciting applications and software solutions.\
 🌱 &nbsp;Currently learning React, Flutter and the growing field of Software Development.\
-⚡ &nbsp;Feel free to reach out and perhaps we could have an interesting chat :)
+⚡ &nbsp;Feel free to reach out and perhaps we could have an interesting chat :)\
+</br>
+</br>
 </br>
 
 <!-- Tech Stack -->
@@ -25,19 +27,40 @@
 
 <!-- Languages -->
 <p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/> </a>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/> </a>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
+  <!-- Python -->
+  <a href="https://www.python.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+      title="Python" alt="Python" height="40" width="40" /></a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+      title="C++" alt="Cplusplus" height="40" width="40" /></a>
+  <!-- C -->
+  <a href="https://www.w3schools.com/c/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+      title="C" alt="C" height="40" width="40" /></a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank"><img
+      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+      title="Java" alt="Java" width="40" height="40" /></a>
+  <!-- HTML -->
+  <a href="https://www.w3schools.com/html/default.asp" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+      title="HTML5" alt="HTML" height="40" width="40" /></a>
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+      title="CSS3" alt="CSS" height="40" width="40" /></a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      title="JavaScript" alt="JavaScript" height="40" width="40" /></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <!--
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 -->
 </p>
@@ -50,10 +73,17 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="" width="40" height="40"/>&nbsp;
-         </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/> </a>&nbsp;
+  <!-- React.js -->
+  <a href="https://reactjs.org/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+      title="React" alt="React" height="40" width="40" /></a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+      title="Node.js" alt="Node.js" height="40" width="40" /></a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<!--         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<!--         
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" 
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -63,13 +93,22 @@
 
 <!-- IDEs Software Tools -->
 <p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </a>&nbsp;
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="blank"><img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      title="Linux" alt="Linux" height="40" width="40" /></a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+      title="Git" alt="Git" height="40" width="40" /></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/> </a>&nbsp;
+  <!-- Android -->
+  <a href="https://developer.android.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
+      title="Android Studio" alt="Android Studio" height="40" width="40" /></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
@@ -86,7 +125,8 @@
 </p>
 
 <!-- Tech Stack Different Style -->
-<!-- # 🛠 Tech Stack
+<!-- 
+# 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
@@ -117,8 +157,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) -->
-
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
+-->
 
 <!-- Github Statistics -->
 ### ⚙️ &nbsp;GitHub Stats:
@@ -147,7 +187,8 @@
   <a href="https://codepen.io/root_mrrobot" target="blank"><img align="center"
       src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"
       title="CodePen" alt="root_mrrobot" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+<!-- 
+<a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
@@ -155,7 +196,8 @@
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
+      alt="adampithewan" height="30" width="40" /></a> 
+-->
 </p>
 
 <!-- Socials Simple Style-->
