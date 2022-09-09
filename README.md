@@ -32,11 +32,11 @@
       src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       title="Python" alt="Python" height="40" width="40" /></a>
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="blank"><img 
+  <a href="https://www.w3schools.com/cpp" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
       title="C++" alt="Cplusplus" height="40" width="40" /></a>
   <!-- C -->
-  <a href="https://www.w3schools.com/c/" target="blank"><img 
+  <a href="https://www.w3schools.com/c" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
       title="C" alt="C" height="40" width="40" /></a>
   <!-- Java -->
@@ -55,10 +55,22 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       title="JavaScript" alt="JavaScript" height="40" width="40" /></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <!-- Dart -->
+  <a href="https://dart.dev" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"
+      title="Dart" alt="Dart" height="40" width="40" /></a>
+  <!-- PHP -->
+  <a href="https://www.php.net" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+      title="PHP" alt="PHP" height="40" width="40" /></a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+      title="MySQL" alt="MySQL" height="40" width="40" /></a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+      title="PostgreSQL" alt="PostgreSQL" height="40" width="40" /></a>
 <!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -69,20 +81,38 @@
 
 <!-- Frameworks -->
 <p align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="" width="40" height="40"/>&nbsp;
+  <!-- NumPy -->
+  <a href="https://numpy.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
+      title="NumPy" alt="NumPy" height="40" width="40" /></a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"
+      title="Pandas" alt="Pandas" height="40" width="40" /></a>
+  <!-- SQLite -->
+  <a href="https://www.sqlitetutorial.net" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"
+      title="SQLite" alt="SQLite" height="40" width="40" /></a>
+  <!-- OpenGL -->
+  <a href="https://www.opengl.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg"
+      title="OpenGL" alt="OpenGL" height="40" width="40" /></a>
   <!-- React.js -->
-  <a href="https://reactjs.org/" target="blank"><img 
+  <a href="https://reactjs.org" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       title="React" alt="React" height="40" width="40" /></a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
       title="Node.js" alt="Node.js" height="40" width="40" /></a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <!-- Three.js -->
+  <a href="https://threejs.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"
+      title="Three.js" alt="Three.js" height="40" width="40" /></a>
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
+      title="Flutter" alt="Flutter" height="40" width="40" /></a>
 <!--         
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" 
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -94,26 +124,53 @@
 <!-- IDEs Software Tools -->
 <p align="center">
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="blank"><img 
+  <a href="https://www.linux.org" target="blank"><img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       title="Linux" alt="Linux" height="40" width="40" /></a>
   <!-- Git -->
-  <a href="https://git-scm.com/" target="blank"><img 
+  <a href="https://git-scm.com" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
       title="Git" alt="Git" height="40" width="40" /></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
+      title="Visual Studio" alt="VS" height="40" width="40" /></a>
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+      title="Visual Studio Code" alt="VScode" height="40" width="40" /></a>
+  <!-- JetBrains -->
+  <a href="https://www.jetbrains.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
+      title="Jetbrains" alt="Jetbrains" height="40" width="40" /></a>
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"
+      title="Jupyter Notebook" alt="Jupyter Notebook" height="40" width="40" /></a>
   <!-- Android -->
   <a href="https://developer.android.com" target="blank"><img 
       src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"
       title="Android Studio" alt="Android Studio" height="40" width="40" /></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" title="Codecov" alt="Codecov" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <!-- Firebase -->
+  <a href="https://firebase.google.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
+      title="Firebase" alt="Firebase" height="40" width="40" /></a>
+  <!-- npm -->
+  <a href="https://www.npmjs.com" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+      title="npm" alt="npm" height="40" width="40" /></a>
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"
+      title="LaTeX" alt="LaTeX" height="40" width="40" /></a>
+  <!-- Codecov -->
+  <a href="https://about.codecov.io" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg"
+      title="Codecov" alt="Codecov" height="40" width="40" /></a>
+  <!-- Blender -->
+  <a href="https://www.blender.org" target="blank"><img 
+      src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"
+      title="Blender" alt="Blender" height="40" width="40" /></a>
 <!--   
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp; 
@@ -187,6 +244,12 @@
   <a href="https://codepen.io/root_mrrobot" target="blank"><img align="center"
       src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"
       title="CodePen" alt="root_mrrobot" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/19285982" target="blank"><img align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+      title="Stack Overflow" alt="19285982" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/root_mrrobot" target="blank"><img align="center" 
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+  title="LeetCode" alt="root_mrrobot" height="30" width="40" /></a>
 <!-- 
 <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
